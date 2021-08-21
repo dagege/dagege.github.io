@@ -6,3 +6,6 @@
 Lab of Big Data, BNRist/RIIT/DCST, Tsinghua University</a>
 
 <p>Tsinghua Database Group</p>
+
+<a href="https://docs.github.com/cn/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github">How to format the README.md</a>
+====
